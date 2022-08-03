@@ -32,10 +32,10 @@ global.github = "https://github.io/" //bebas
 global.email = "aditya@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285960495449'] //premium user
-global.owner = ["6285960495449","6285960495449"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285960495449" // nomor wa kalian
-global.ownernomerr = "+6285960495449" //nmr wa kalian
+global.premium = ['6282252091949'] //premium user
+global.owner = ["6282252091949","6282252091949"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6282252091949" // nomor wa kalian
+global.ownernomerr = "+6282252091949" //nmr wa kalian
 global.thumbnail = "./image/Haruka.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
@@ -46,7 +46,7 @@ global.typemenu = 'document'
 
 global.limitawal = {
     premium: "Infinity",
-    free: 5000
+    free: 50000
 }
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
