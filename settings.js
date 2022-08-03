@@ -49,6 +49,21 @@ global.limitawal = {
     free: 50000
 }
 
+global.adventureRPG = 'https://telegra.ph/file/30bef343159005b622ced.jpg'
+global.bankRPG = 'https://telegra.ph/file/1ee3e007de22f6add4a31.jpg'
+global.bansosRPG = 'https://telegra.ph/file/646af753f38fbf7bbbccc.jpg'
+global.bansosRPG_ = 'https://telegra.ph/file/ba18a18aac022170c8056.jpg'
+global.berburuRPG = 'https://telegra.ph/file/95a202f631ab7172c3f25.jpg'
+global.inventoryRPG = 'https://telegra.ph/file/82b21932692f82fce8664.jpg'
+global.cooldownRPG = 'https://telegra.ph/file/5e1e191a47028d9648ffa.jpg'
+global.dailyRPG = 'https://telegra.ph/file/17e857848a3afdb1c4fd8.jpg'
+global.hourlyRPG = 'https://telegra.ph/file/bcabf71c0f56207d1629e.jpg'
+global.kandangRPG = 'https://telegra.ph/file/89c3b3ec69d373da8f64b.jpg'
+global.kolamRGP = 'https://telegra.ph/file/0bc07117c78b2c9674b7d.jpg'
+global.mancingRPG = 'https://telegra.ph/file/1420d26b7f04f84993225.jpg'
+global.monthlyRPG = 'https://telegra.ph/file/7eadf65b95d9f7a3ecb46.jpg'
+global.weeklyRPG = 'https://telegra.ph/file/ffc85895d14db97931f0f.jpg'
+
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
